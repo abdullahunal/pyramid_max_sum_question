@@ -30,7 +30,7 @@ public class Main {
     private static List<List<Integer>> readNumbersFromFile() throws FileNotFoundException {
         List<List<Integer>> numbers = new ArrayList<>();
 
-        File file = new File("C:\\Users\\Moturcu66\\Desktop\\PyramidMaxSumQuestion\\data.txt"); // resource'dan oku
+        File file = new File("C:\\Users\\Moturcu66\\Desktop\\pyramid_max_sum_question\\data.txt"); // resource'dan oku
         try (Scanner scanner = new Scanner(file).useDelimiter("\\n")) {
             while (scanner.hasNext()) {
                 String line = scanner.next();
