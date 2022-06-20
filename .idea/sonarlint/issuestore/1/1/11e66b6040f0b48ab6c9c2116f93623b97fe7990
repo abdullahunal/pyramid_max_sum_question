@@ -1,0 +1,7 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(‘‘çÊ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë„÷ùÿÿÿÿ
+N
+java:S1128
+"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8­ªÇ¦•0
